@@ -41,6 +41,7 @@ The RMSD of the simulated mimic varaint and PTM was 1.45. Overall the strucutre 
 
 ## Colab notebook links
 Copy_of_MD_simulation_Step1
+
 Copy_of_mdanalysis_colab_Step2
 ## Authors
 
