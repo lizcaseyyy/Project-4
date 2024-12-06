@@ -36,7 +36,7 @@ The loop sites are shown in the ball and stick conformations. The loop site with
 ![image](https://github.com/user-attachments/assets/2bc31400-c373-4296-a53a-0617b4f3ed88)
 
 ## Comparison of MD simulated mimic variant and authentic PTM
-The RMSD of the simulated mimic varaint and PTM was 1.45. Overall the strucutre changes are minimal in structure adn position. 
+The RMSD of the simulated mimic varaint and PTM was 1.45. Overall the strucutre changes are minimal in structure and position. 
 ![image](https://github.com/user-attachments/assets/dc2f9e99-185e-4cac-bc18-0710f8aeca93)
 
 ## Colab notebook links
