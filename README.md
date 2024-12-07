@@ -6,17 +6,26 @@
 
 ## Description:
 
-Asp 155 is the location of the mimic variant in MDH2. TPO 155 is the location of the PTM which was phosphorylated in MDH2. No previous research has been done on modifications in MDH2 at this location. 
+Asp 155 is the location of the mimic variant in MDH2. TPO 155 is the location of the PTM in MDH2. No previous research has been done on modifications in MDH2 at this location. 
 
-# Comparison of MDH2 model to mimic varaint and PTM
-1. Alignment of unmodified MDH2 (brown and grey), MDH2 with mimic variant (magenta and violet) , and MDH2 with PTM (green and yellow) 
-![image](https://github.com/user-attachments/assets/9654fe68-3f38-4cf4-8533-9d109c6419c3)
+# Part 1 from Project 4 report outline
+
+1. Unmodified site of MDH2 at location 155
+![image](https://github.com/user-attachments/assets/f1dbdbcf-b46f-4935-9c06-0ef5f2b666ad)
 
 2. Modification site alignment with MDH2
 ![image](https://github.com/user-attachments/assets/9c461303-f79f-4ced-9047-9f658f538df3)
 With the addition of the PTM, TPO 155 interacts with Ser 45, Lys 21, Thr 49, Ile 47,Glu 159, Val 151 through hydrogen bonds and PHE 156 through a hydrophobic interaction. The mimic variant has the same weak interactions as the unmodified MDH2 except for the deletion of Hydrogen bonding between His 46.
 
 # Effect of the sequenct variant and PTM on MD dynamics
+1. Alignment of unmodified MDH2 (brown and grey), MDH2 with mimic variant (magenta and violet) , and MDH2 with PTM (green and yellow)
+   
+![image](https://github.com/user-attachments/assets/0271cd18-370c-4dfa-bfd7-8406a6051428)
+
+2. Aligned Active site at His 176
+   ![image](https://github.com/user-attachments/assets/0ac865ce-0301-4cef-be1c-c5c8e7e74739)
+
+
  The RMSD in the final frame from MD simulations of the mimic variant was 1.1 Å The unmodified MDH2 is shown in magenta while the mimic variant is shown in red. 
  ![image](https://github.com/user-attachments/assets/25e4242e-0ea8-4796-8dcc-bd473f0432ae)
 
